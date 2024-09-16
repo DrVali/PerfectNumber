@@ -1,0 +1,26 @@
+
+*
+{
+  
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: none;
+}
+
+html{
+  font-size: 62.5%;
+
+}
+ body{
+   font-size : 2rem;
+   padding:35px;
+ }
+
+ 
+p{
+	margin:15px auto;
+	text-align:center;
+}
